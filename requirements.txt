@@ -1,0 +1,6 @@
+langgraph
+langchain-community
+python-dotenv
+pydantic
+typing
+google.generativeai
